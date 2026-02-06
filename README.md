@@ -168,5 +168,3 @@ Frontend tarafında:
 ## 👤 Geliştirici
 
 **Enes**
-Software Engineering Student
-
